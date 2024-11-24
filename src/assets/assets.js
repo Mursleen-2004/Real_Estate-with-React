@@ -82,7 +82,7 @@ export const testimonialsData = [
     image: profile_img_1,
     alt: "Portrait of Ali Hussain ",
     rating: 5,
-    text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched.",
+    text: "From the moment we first met, they really took the time to understand what I was looking for and helped me find the perfect property. Their attention to detail and genuine commitment to making sure I was happy with every step of the process made all the difference.",
   },
   {
     name: "Alex Carey",
@@ -90,7 +90,7 @@ export const testimonialsData = [
     image: profile_img_2,
     alt: "Portrait of Alex Carey",
     rating: 4,
-    text: "From the moment we connected, they instinctively understood my vision and led me to the perfect property. Their meticulous attention to every detail and relentless focus on ensuring my satisfaction made the entire experience exceptional.",
+    text: "They really took the time to understand my needs and helped me find the perfect property. Their attention to every detail and unwavering dedication to ensuring my satisfaction made the entire experience smooth and outstanding.",
   },
   {
     name: "Arif Ali",
@@ -98,7 +98,7 @@ export const testimonialsData = [
     image: profile_img_3,
     alt: "Portrait of Arif Ali",
     rating: 5,
-    text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched.",
+    text: "They grasped my vision right away and guided me to the ideal property. Their focus on the finer details and dedication to ensuring my satisfaction truly sets them apart.",
   },
 ];
 
