@@ -90,7 +90,7 @@ export const testimonialsData = [
     image: profile_img_2,
     alt: "Portrait of Alex Carey",
     rating: 4,
-    text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched.",
+    text: "From the moment we connected, they instinctively understood my vision and led me to the perfect property. Their meticulous attention to every detail and relentless focus on ensuring my satisfaction made the entire experience exceptional.",
   },
   {
     name: "Arif Ali",
